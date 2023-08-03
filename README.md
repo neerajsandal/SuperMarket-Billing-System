@@ -1,7 +1,7 @@
 # SuperMarket-Billing-System
 
 **Introduction:**
-Welcome to the Supermarket Billing System! This project is a C++ implementation of a billing system for a supermarket. It provides two main roles: Administrator and Buyer. The Administrator can manage the database by adding, modifying, or deleting products. The Buyer can select items they want to purchase, and the system generates a bill accordingly.
+This project is a C++ implementation of a billing system for a supermarket. It provides two main roles: Administrator and Buyer. The Administrator can manage the database by adding, modifying, or deleting products. The Buyer can select items they want to purchase, and the system generates a bill accordingly.
 
 **Features:**
 1. **Administrator:**
@@ -15,5 +15,5 @@ Welcome to the Supermarket Billing System! This project is a C++ implementation 
 
 3. **Billing:**
    - The system calculates the total bill based on the selected items and quantities.
-   - Applicable taxes and discounts are automatically applied.
+   - Applicable discounts are automatically applied.
    - The final bill is displayed to the buyer.
