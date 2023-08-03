@@ -1,0 +1,5 @@
+ 5 chocolate 45 123 5
+ 1 mango 10 41 1.8
+ 2 orange 90 18 2
+ 9 Tea 8 120 2.6
+ 7 Banana 78 12 1
